@@ -1,0 +1,18 @@
+﻿Les fichiers JSON des classes suivantes sont manquants :
+Utilisateurs :
+- ValiderRattachementsUtilisateur
+- ConsulterMonCompteUtilisateur
+- DesactiverMonCompteUtilisateur
+- ModifierMonCompteUtilisateur
+- ReactiverMonCompteUtilisateur
+- SaisirGeneralitesInscriptionUtilisateur
+Transverses :
+- RecupererFormatFlux
+- RecupererFournisseursPourValideur
+- RecupererStructuresActivesPourFactureTravaux
+- RecupererUnites
+- RecupererValideursPourFournisseur
+Factures Travaux :
+- CorrigerValideurFactureTravaux
+- PrendreEnCompteUneFactureDeTravaux
+- SoumettreFactureTravaux

@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Qualification.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Matelas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%CPPMatelas%</Value>
+    </Setting>
+    <Setting Name="UrlPrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">service-qualif</Value>
+    </Setting>
+    <Setting Name="Certificat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%CPPCertFile%</Value>
+    </Setting>
+    <Setting Name="CertificatPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%CPPCertPassword%</Value>
+    </Setting>
+    <Setting Name="URI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://chorus-pro.gouv.fr:5443</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
